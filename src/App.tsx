@@ -2,6 +2,7 @@ import React from 'react';
 import './App.css';
 import Header from "./components/Header/header";
 import Content from "./components/Content/Content";
+import Rectangle from "./components/Rectangle";
 
 function App() {
     return (
@@ -9,6 +10,7 @@ function App() {
             <div className={"wrapper"}>
                 <Header/>
                 <Content/>
+                <Rectangle/>
                 <footer className={"footer"}>
                     Footer
                 </footer>
