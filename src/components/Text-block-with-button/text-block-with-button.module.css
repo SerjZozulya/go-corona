@@ -1,0 +1,23 @@
+@import url('https://fonts.googleapis.com/css2?family=Rubik:wght@400;700&display=swap');
+
+.textBlockWithButton {
+    margin: 240px 0 0 0;
+    box-sizing: border-box;
+    max-width: 50%;
+    text-align: left;
+    line-height: 138.5%;
+    letter-spacing: 0.08em;
+}
+
+.header {
+    color: black;
+    font-family: Rubik;
+    font-weight: 700;
+    font-size: 44px;
+    line-height: 126%;
+    margin-bottom: 12px;
+}
+
+.p {
+    margin-bottom: 24px;
+}

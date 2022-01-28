@@ -1,0 +1,41 @@
+.getStarted {
+    display: flex;
+}
+
+.image_container {
+    margin: 153px 0 0 0;
+}
+
+.watchVideo {
+    display: flex;
+}
+
+.playButton {
+
+}
+
+.playButton:hover {
+
+}
+
+.watchVideoTextBlock {
+    display: block;
+    margin: 6px 0 6px 12px;
+}
+
+.staySafe {
+    font-size: 13px;
+    line-height: 126%;
+    letter-spacing: 0.08em;
+    color: #B0B0B0;
+}
+
+.watchVideoText {
+    font-size: 9px;
+    line-height: 126%;
+    letter-spacing: 0.165em;
+    text-transform: uppercase;
+    font-feature-settings: 'pnum' on, 'lnum' on;
+
+    color: #000000;
+}
