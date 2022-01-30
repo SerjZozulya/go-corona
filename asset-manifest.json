@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/auth-form/static/css/main.074d4299.css",
-    "main.js": "/auth-form/static/js/main.732044d4.js",
-    "static/js/787.9d870195.chunk.js": "/auth-form/static/js/787.9d870195.chunk.js",
-    "static/media/image.svg": "/auth-form/static/media/image.01e324b0b705f3daf76c7419c5d4fb70.svg",
-    "static/media/logo.svg": "/auth-form/static/media/logo.c2a78f0c8dbacdc504e58e1575467857.svg",
-    "index.html": "/auth-form/index.html",
-    "static/media/playbutton.svg": "/auth-form/static/media/playbutton.b6f2a40276ed818a31e4346589cf5ab7.svg",
-    "main.074d4299.css.map": "/auth-form/static/css/main.074d4299.css.map",
-    "main.732044d4.js.map": "/auth-form/static/js/main.732044d4.js.map",
-    "787.9d870195.chunk.js.map": "/auth-form/static/js/787.9d870195.chunk.js.map"
+    "main.css": "/go-corona/static/css/main.074d4299.css",
+    "main.js": "/go-corona/static/js/main.8a053706.js",
+    "static/js/787.9d870195.chunk.js": "/go-corona/static/js/787.9d870195.chunk.js",
+    "static/media/image.svg": "/go-corona/static/media/image.01e324b0b705f3daf76c7419c5d4fb70.svg",
+    "static/media/logo.svg": "/go-corona/static/media/logo.c2a78f0c8dbacdc504e58e1575467857.svg",
+    "index.html": "/go-corona/index.html",
+    "static/media/playbutton.svg": "/go-corona/static/media/playbutton.b6f2a40276ed818a31e4346589cf5ab7.svg",
+    "main.074d4299.css.map": "/go-corona/static/css/main.074d4299.css.map",
+    "main.8a053706.js.map": "/go-corona/static/js/main.8a053706.js.map",
+    "787.9d870195.chunk.js.map": "/go-corona/static/js/787.9d870195.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.074d4299.css",
-    "static/js/main.732044d4.js"
+    "static/js/main.8a053706.js"
   ]
 }
